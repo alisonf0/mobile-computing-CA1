@@ -1,0 +1,13 @@
+<resources>
+<!--?A collection of strings in the project for easy changes.?-->
+    <string name="app_name">DogWiki</string>
+    <string name="breeds">Breeds</string>
+    <string name="enter_breed">Enter breed</string>
+    <string name="add_sample_data">Add sample data</string>
+    <string name="delete">Delete</string>
+    <string name="delete_all_breeds">Delete all breeds</string>
+    <string name="new_breed">New breed</string>
+    <string name="edit_breed">Edit breed</string>
+    <string name="enter_breed_type">Enter breed type...</string>
+    <string name="enter_breed_data">Enter breed data...</string>
+</resources>
